@@ -1,0 +1,32 @@
+div.content {
+    width: 600px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 30px auto;
+    padding: 10px;
+}
+
+form input[type="number"] {
+    width: 98%;
+}
+form input[type="password"] {
+    width: 98%;
+}
+
+div.fields {
+    margin-bottom: 10px;
+}
+
+span {
+    color: red;
+}
+
+span.hide {
+    display: none;
+}
+form input[type="button"]{
+    text-align: center;
+}
+div.login{
+    text-align: center;
+}
